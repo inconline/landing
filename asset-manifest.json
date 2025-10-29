@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59a31c41.css",
+    "main.js": "/static/js/main.c3b8d5ca.js",
+    "static/media/bg.png": "/static/media/bg.f7dd68ec3f3f6828c1fb.png",
+    "static/media/MedodicaRegular.otf": "/static/media/MedodicaRegular.95749ec5a65afd44d159.otf",
+    "index.html": "/index.html",
+    "main.59a31c41.css.map": "/static/css/main.59a31c41.css.map",
+    "main.c3b8d5ca.js.map": "/static/js/main.c3b8d5ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a31c41.css",
+    "static/js/main.c3b8d5ca.js"
+  ]
+}

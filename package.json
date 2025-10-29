@@ -1,0 +1,23 @@
+{
+  "name": "inc-online",
+  "version": "1.0.0",
+  "description": "Internet Native Company",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "inc",
+    "internet-native",
+    "company"
+  ],
+  "author": "Internet Native Company",
+  "license": "MIT"
+}
+
